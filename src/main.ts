@@ -41,7 +41,7 @@ async function run(): Promise<void> {
             return
         }
 
-        const dive = 'wagoodman/dive:v0.9.2';
+        const dive = 'wagoodman/dive:v0.12.0';
 
         const runOptions = [
           '-e',
